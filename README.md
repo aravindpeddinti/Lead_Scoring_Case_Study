@@ -1,1 +1,2 @@
 # Lead_Scoring_Case_Study
+In this case study assignment, we (Aravind, Arnave and Anuja) will predict whether a lead, i.e., a person who browses the X Education website for an online course, will be converted or not converted, using a logistic regression model.
